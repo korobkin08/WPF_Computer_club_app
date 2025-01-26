@@ -1,0 +1,59 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+    <StartupObject></StartupObject>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Sources\backadmin.jpg" />
+    <None Remove="Sources\distortion.png" />
+    <None Remove="Sources\enter.jpg" />
+    <None Remove="Sources\enter2.jpg" />
+    <None Remove="Sources\enter3.png" />
+    <None Remove="Sources\enterpage.jpg" />
+    <None Remove="Sources\EnterScreen.png" />
+    <None Remove="Sources\Icon.png" />
+    <None Remove="Sources\logout.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Sources\backadmin.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AngleSharp" Version="1.1.2" />
+    <PackageReference Include="itext7" Version="9.0.0" />
+    <PackageReference Include="LiveCharts.Wpf" Version="0.9.7" />
+    <PackageReference Include="LiveCharts.Wpf.NetCore3" Version="0.9.8" />
+    <PackageReference Include="MahApps.Metro" Version="2.4.10" />
+    <PackageReference Include="MahApps.Metro.IconPacks" Version="5.0.0" />
+    <PackageReference Include="MahApps.Metro.Resources" Version="0.6.1" />
+    <PackageReference Include="MaterialDesignInXamlToolkitAddOns" Version="0.0.6" />
+    <PackageReference Include="MetroModernUI" Version="1.4.0" />
+    <PackageReference Include="Npgsql" Version="8.0.5" />
+    <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="8.0.8" />
+    <PackageReference Include="OxyPlot.Contrib.Wpf" Version="2.1.2" />
+    <PackageReference Include="OxyPlot.Core" Version="2.2.0" />
+    <PackageReference Include="OxyPlot.Wpf" Version="2.2.0" />
+    <PackageReference Include="OxyPlot.Wpf.Shared" Version="2.2.0" />
+    <PackageReference Include="PDFsharp" Version="6.1.1" />
+    <PackageReference Include="PdfSharpCore" Version="1.3.65" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Sources\distortion.png" />
+    <Resource Include="Sources\enter.jpg" />
+    <Resource Include="Sources\enter2.jpg" />
+    <Resource Include="Sources\enterpage.jpg" />
+    <Resource Include="Sources\EnterScreen.png" />
+    <Resource Include="Sources\enter3.png" />
+    <Resource Include="Sources\Icon.png" />
+    <Resource Include="Sources\logout.png" />
+  </ItemGroup>
+
+</Project>

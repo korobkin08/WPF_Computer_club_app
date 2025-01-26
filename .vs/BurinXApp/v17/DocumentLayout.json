@@ -1,0 +1,420 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UNIK\\6_sem\\BurinXApp\\BurinXApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{660638EB-263F-4A46-8E47-F4660E5C1405}|BurinXApp\\BurinXApp.csproj|d:\\unik\\6_sem\\burinxapp\\burinxapp\\burinxapp\\bookingwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{660638EB-263F-4A46-8E47-F4660E5C1405}|BurinXApp\\BurinXApp.csproj|solutionrelative:burinxapp\\bookingwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{660638EB-263F-4A46-8E47-F4660E5C1405}|BurinXApp\\BurinXApp.csproj|d:\\unik\\6_sem\\burinxapp\\burinxapp\\burinxapp\\clientwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{660638EB-263F-4A46-8E47-F4660E5C1405}|BurinXApp\\BurinXApp.csproj|solutionrelative:burinxapp\\clientwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{660638EB-263F-4A46-8E47-F4660E5C1405}|BurinXApp\\BurinXApp.csproj|d:\\unik\\6_sem\\burinxapp\\burinxapp\\burinxapp\\adminwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{660638EB-263F-4A46-8E47-F4660E5C1405}|BurinXApp\\BurinXApp.csproj|solutionrelative:burinxapp\\adminwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{660638EB-263F-4A46-8E47-F4660E5C1405}|BurinXApp\\BurinXApp.csproj|d:\\unik\\6_sem\\burinxapp\\burinxapp\\burinxapp\\clientwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{660638EB-263F-4A46-8E47-F4660E5C1405}|BurinXApp\\BurinXApp.csproj|solutionrelative:burinxapp\\clientwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{660638EB-263F-4A46-8E47-F4660E5C1405}|BurinXApp\\BurinXApp.csproj|d:\\unik\\6_sem\\burinxapp\\burinxapp\\burinxapp\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{660638EB-263F-4A46-8E47-F4660E5C1405}|BurinXApp\\BurinXApp.csproj|solutionrelative:burinxapp\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{660638EB-263F-4A46-8E47-F4660E5C1405}|BurinXApp\\BurinXApp.csproj|d:\\unik\\6_sem\\burinxapp\\burinxapp\\burinxapp\\registrationwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{660638EB-263F-4A46-8E47-F4660E5C1405}|BurinXApp\\BurinXApp.csproj|solutionrelative:burinxapp\\registrationwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{660638EB-263F-4A46-8E47-F4660E5C1405}|BurinXApp\\BurinXApp.csproj|d:\\unik\\6_sem\\burinxapp\\burinxapp\\burinxapp\\registrationwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{660638EB-263F-4A46-8E47-F4660E5C1405}|BurinXApp\\BurinXApp.csproj|solutionrelative:burinxapp\\registrationwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{660638EB-263F-4A46-8E47-F4660E5C1405}|BurinXApp\\BurinXApp.csproj|d:\\unik\\6_sem\\burinxapp\\burinxapp\\burinxapp\\custommessagebox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{660638EB-263F-4A46-8E47-F4660E5C1405}|BurinXApp\\BurinXApp.csproj|solutionrelative:burinxapp\\custommessagebox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{660638EB-263F-4A46-8E47-F4660E5C1405}|BurinXApp\\BurinXApp.csproj|d:\\unik\\6_sem\\burinxapp\\burinxapp\\burinxapp\\custommessagebox.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{660638EB-263F-4A46-8E47-F4660E5C1405}|BurinXApp\\BurinXApp.csproj|solutionrelative:burinxapp\\custommessagebox.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{660638EB-263F-4A46-8E47-F4660E5C1405}|BurinXApp\\BurinXApp.csproj|d:\\unik\\6_sem\\burinxapp\\burinxapp\\burinxapp\\observer\\timeobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{660638EB-263F-4A46-8E47-F4660E5C1405}|BurinXApp\\BurinXApp.csproj|solutionrelative:burinxapp\\observer\\timeobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{660638EB-263F-4A46-8E47-F4660E5C1405}|BurinXApp\\BurinXApp.csproj|d:\\unik\\6_sem\\burinxapp\\burinxapp\\burinxapp\\bookingwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{660638EB-263F-4A46-8E47-F4660E5C1405}|BurinXApp\\BurinXApp.csproj|solutionrelative:burinxapp\\bookingwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{660638EB-263F-4A46-8E47-F4660E5C1405}|BurinXApp\\BurinXApp.csproj|d:\\unik\\6_sem\\burinxapp\\burinxapp\\burinxapp\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{660638EB-263F-4A46-8E47-F4660E5C1405}|BurinXApp\\BurinXApp.csproj|solutionrelative:burinxapp\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{660638EB-263F-4A46-8E47-F4660E5C1405}|BurinXApp\\BurinXApp.csproj|d:\\unik\\6_sem\\burinxapp\\burinxapp\\burinxapp\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{660638EB-263F-4A46-8E47-F4660E5C1405}|BurinXApp\\BurinXApp.csproj|solutionrelative:burinxapp\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{660638EB-263F-4A46-8E47-F4660E5C1405}|BurinXApp\\BurinXApp.csproj|d:\\unik\\6_sem\\burinxapp\\burinxapp\\burinxapp\\enterpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{660638EB-263F-4A46-8E47-F4660E5C1405}|BurinXApp\\BurinXApp.csproj|solutionrelative:burinxapp\\enterpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{660638EB-263F-4A46-8E47-F4660E5C1405}|BurinXApp\\BurinXApp.csproj|d:\\unik\\6_sem\\burinxapp\\burinxapp\\burinxapp\\addeditofferwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{660638EB-263F-4A46-8E47-F4660E5C1405}|BurinXApp\\BurinXApp.csproj|solutionrelative:burinxapp\\addeditofferwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{660638EB-263F-4A46-8E47-F4660E5C1405}|BurinXApp\\BurinXApp.csproj|d:\\unik\\6_sem\\burinxapp\\burinxapp\\burinxapp\\model\\computermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{660638EB-263F-4A46-8E47-F4660E5C1405}|BurinXApp\\BurinXApp.csproj|solutionrelative:burinxapp\\model\\computermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{660638EB-263F-4A46-8E47-F4660E5C1405}|BurinXApp\\BurinXApp.csproj|d:\\unik\\6_sem\\burinxapp\\burinxapp\\burinxapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{660638EB-263F-4A46-8E47-F4660E5C1405}|BurinXApp\\BurinXApp.csproj|solutionrelative:burinxapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{660638EB-263F-4A46-8E47-F4660E5C1405}|BurinXApp\\BurinXApp.csproj|d:\\unik\\6_sem\\burinxapp\\burinxapp\\burinxapp\\observer\\timesubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{660638EB-263F-4A46-8E47-F4660E5C1405}|BurinXApp\\BurinXApp.csproj|solutionrelative:burinxapp\\observer\\timesubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{660638EB-263F-4A46-8E47-F4660E5C1405}|BurinXApp\\BurinXApp.csproj|d:\\unik\\6_sem\\burinxapp\\burinxapp\\burinxapp\\observer\\isubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{660638EB-263F-4A46-8E47-F4660E5C1405}|BurinXApp\\BurinXApp.csproj|solutionrelative:burinxapp\\observer\\isubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{660638EB-263F-4A46-8E47-F4660E5C1405}|BurinXApp\\BurinXApp.csproj|d:\\unik\\6_sem\\burinxapp\\burinxapp\\burinxapp\\observer\\iobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{660638EB-263F-4A46-8E47-F4660E5C1405}|BurinXApp\\BurinXApp.csproj|solutionrelative:burinxapp\\observer\\iobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{660638EB-263F-4A46-8E47-F4660E5C1405}|BurinXApp\\BurinXApp.csproj|d:\\unik\\6_sem\\burinxapp\\burinxapp\\burinxapp\\singleton\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{660638EB-263F-4A46-8E47-F4660E5C1405}|BurinXApp\\BurinXApp.csproj|solutionrelative:burinxapp\\singleton\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{660638EB-263F-4A46-8E47-F4660E5C1405}|BurinXApp\\BurinXApp.csproj|d:\\unik\\6_sem\\burinxapp\\burinxapp\\burinxapp\\model\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{660638EB-263F-4A46-8E47-F4660E5C1405}|BurinXApp\\BurinXApp.csproj|solutionrelative:burinxapp\\model\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{660638EB-263F-4A46-8E47-F4660E5C1405}|BurinXApp\\BurinXApp.csproj|d:\\unik\\6_sem\\burinxapp\\burinxapp\\burinxapp\\enterpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{660638EB-263F-4A46-8E47-F4660E5C1405}|BurinXApp\\BurinXApp.csproj|solutionrelative:burinxapp\\enterpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{660638EB-263F-4A46-8E47-F4660E5C1405}|BurinXApp\\BurinXApp.csproj|d:\\unik\\6_sem\\burinxapp\\burinxapp\\burinxapp\\addeditofferwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{660638EB-263F-4A46-8E47-F4660E5C1405}|BurinXApp\\BurinXApp.csproj|solutionrelative:burinxapp\\addeditofferwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 18,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomMessageBox.xaml.cs",
+              "DocumentMoniker": "D:\\UNIK\\6_sem\\BurinXApp\\BurinXApp\\BurinXApp\\CustomMessageBox.xaml.cs",
+              "RelativeDocumentMoniker": "BurinXApp\\CustomMessageBox.xaml.cs",
+              "ToolTip": "D:\\UNIK\\6_sem\\BurinXApp\\BurinXApp\\BurinXApp\\CustomMessageBox.xaml.cs",
+              "RelativeToolTip": "BurinXApp\\CustomMessageBox.xaml.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAIA3wCoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T00:32:47.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomMessageBox.xaml",
+              "DocumentMoniker": "D:\\UNIK\\6_sem\\BurinXApp\\BurinXApp\\BurinXApp\\CustomMessageBox.xaml",
+              "RelativeDocumentMoniker": "BurinXApp\\CustomMessageBox.xaml",
+              "ToolTip": "D:\\UNIK\\6_sem\\BurinXApp\\BurinXApp\\BurinXApp\\CustomMessageBox.xaml",
+              "RelativeToolTip": "BurinXApp\\CustomMessageBox.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-19T00:29:21.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TimeObserver.cs",
+              "DocumentMoniker": "D:\\UNIK\\6_sem\\BurinXApp\\BurinXApp\\BurinXApp\\Observer\\TimeObserver.cs",
+              "RelativeDocumentMoniker": "BurinXApp\\Observer\\TimeObserver.cs",
+              "ToolTip": "D:\\UNIK\\6_sem\\BurinXApp\\BurinXApp\\BurinXApp\\Observer\\TimeObserver.cs",
+              "RelativeToolTip": "BurinXApp\\Observer\\TimeObserver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T16:07:59.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TimeSubject.cs",
+              "DocumentMoniker": "D:\\UNIK\\6_sem\\BurinXApp\\BurinXApp\\BurinXApp\\Observer\\TimeSubject.cs",
+              "RelativeDocumentMoniker": "BurinXApp\\Observer\\TimeSubject.cs",
+              "ToolTip": "D:\\UNIK\\6_sem\\BurinXApp\\BurinXApp\\BurinXApp\\Observer\\TimeSubject.cs",
+              "RelativeToolTip": "BurinXApp\\Observer\\TimeSubject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T16:06:03.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ISubject.cs",
+              "DocumentMoniker": "D:\\UNIK\\6_sem\\BurinXApp\\BurinXApp\\BurinXApp\\Observer\\ISubject.cs",
+              "RelativeDocumentMoniker": "BurinXApp\\Observer\\ISubject.cs",
+              "ToolTip": "D:\\UNIK\\6_sem\\BurinXApp\\BurinXApp\\BurinXApp\\Observer\\ISubject.cs",
+              "RelativeToolTip": "BurinXApp\\Observer\\ISubject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T16:05:36.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IObserver.cs",
+              "DocumentMoniker": "D:\\UNIK\\6_sem\\BurinXApp\\BurinXApp\\BurinXApp\\Observer\\IObserver.cs",
+              "RelativeDocumentMoniker": "BurinXApp\\Observer\\IObserver.cs",
+              "ToolTip": "D:\\UNIK\\6_sem\\BurinXApp\\BurinXApp\\BurinXApp\\Observer\\IObserver.cs",
+              "RelativeToolTip": "BurinXApp\\Observer\\IObserver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T15:46:07.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "D:\\UNIK\\6_sem\\BurinXApp\\BurinXApp\\BurinXApp\\Model\\UserModel.cs",
+              "RelativeDocumentMoniker": "BurinXApp\\Model\\UserModel.cs",
+              "ToolTip": "D:\\UNIK\\6_sem\\BurinXApp\\BurinXApp\\BurinXApp\\Model\\UserModel.cs",
+              "RelativeToolTip": "BurinXApp\\Model\\UserModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T15:35:00.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EnterPage.xaml.cs",
+              "DocumentMoniker": "D:\\UNIK\\6_sem\\BurinXApp\\BurinXApp\\BurinXApp\\EnterPage.xaml.cs",
+              "RelativeDocumentMoniker": "BurinXApp\\EnterPage.xaml.cs",
+              "ToolTip": "D:\\UNIK\\6_sem\\BurinXApp\\BurinXApp\\BurinXApp\\EnterPage.xaml.cs",
+              "RelativeToolTip": "BurinXApp\\EnterPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T15:28:48.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\UNIK\\6_sem\\BurinXApp\\BurinXApp\\BurinXApp\\App.xaml",
+              "RelativeDocumentMoniker": "BurinXApp\\App.xaml",
+              "ToolTip": "D:\\UNIK\\6_sem\\BurinXApp\\BurinXApp\\BurinXApp\\App.xaml",
+              "RelativeToolTip": "BurinXApp\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-17T21:58:54.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AddEditOfferWindow.xaml.cs",
+              "DocumentMoniker": "D:\\UNIK\\6_sem\\BurinXApp\\BurinXApp\\BurinXApp\\AddEditOfferWindow.xaml.cs",
+              "RelativeDocumentMoniker": "BurinXApp\\AddEditOfferWindow.xaml.cs",
+              "ToolTip": "D:\\UNIK\\6_sem\\BurinXApp\\BurinXApp\\BurinXApp\\AddEditOfferWindow.xaml.cs",
+              "RelativeToolTip": "BurinXApp\\AddEditOfferWindow.xaml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAmwD0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T16:34:13.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AddEditOfferWindow.xaml",
+              "DocumentMoniker": "D:\\UNIK\\6_sem\\BurinXApp\\BurinXApp\\BurinXApp\\AddEditOfferWindow.xaml",
+              "RelativeDocumentMoniker": "BurinXApp\\AddEditOfferWindow.xaml",
+              "ToolTip": "D:\\UNIK\\6_sem\\BurinXApp\\BurinXApp\\BurinXApp\\AddEditOfferWindow.xaml",
+              "RelativeToolTip": "BurinXApp\\AddEditOfferWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-16T16:33:19.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookingWindow.xaml",
+              "DocumentMoniker": "D:\\UNIK\\6_sem\\BurinXApp\\BurinXApp\\BurinXApp\\BookingWindow.xaml",
+              "RelativeDocumentMoniker": "BurinXApp\\BookingWindow.xaml",
+              "ToolTip": "D:\\UNIK\\6_sem\\BurinXApp\\BurinXApp\\BurinXApp\\BookingWindow.xaml",
+              "RelativeToolTip": "BurinXApp\\BookingWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-12T18:53:44.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookingWindow.xaml.cs",
+              "DocumentMoniker": "D:\\UNIK\\6_sem\\BurinXApp\\BurinXApp\\BurinXApp\\BookingWindow.xaml.cs",
+              "RelativeDocumentMoniker": "BurinXApp\\BookingWindow.xaml.cs",
+              "ToolTip": "D:\\UNIK\\6_sem\\BurinXApp\\BurinXApp\\BurinXApp\\BookingWindow.xaml.cs",
+              "RelativeToolTip": "BurinXApp\\BookingWindow.xaml.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAswFUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T18:54:38.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EnterPage.xaml",
+              "DocumentMoniker": "D:\\UNIK\\6_sem\\BurinXApp\\BurinXApp\\BurinXApp\\EnterPage.xaml",
+              "RelativeDocumentMoniker": "BurinXApp\\EnterPage.xaml",
+              "ToolTip": "D:\\UNIK\\6_sem\\BurinXApp\\BurinXApp\\BurinXApp\\EnterPage.xaml",
+              "RelativeToolTip": "BurinXApp\\EnterPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-22T22:35:27.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "D:\\UNIK\\6_sem\\BurinXApp\\BurinXApp\\BurinXApp\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "BurinXApp\\LoginWindow.xaml",
+              "ToolTip": "D:\\UNIK\\6_sem\\BurinXApp\\BurinXApp\\BurinXApp\\LoginWindow.xaml",
+              "RelativeToolTip": "BurinXApp\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-15T21:13:49.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "D:\\UNIK\\6_sem\\BurinXApp\\BurinXApp\\BurinXApp\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "BurinXApp\\LoginWindow.xaml.cs",
+              "ToolTip": "D:\\UNIK\\6_sem\\BurinXApp\\BurinXApp\\BurinXApp\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "BurinXApp\\LoginWindow.xaml.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAqwDQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T20:04:45.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegistrationWindow.xaml.cs",
+              "DocumentMoniker": "D:\\UNIK\\6_sem\\BurinXApp\\BurinXApp\\BurinXApp\\RegistrationWindow.xaml.cs",
+              "RelativeDocumentMoniker": "BurinXApp\\RegistrationWindow.xaml.cs",
+              "ToolTip": "D:\\UNIK\\6_sem\\BurinXApp\\BurinXApp\\BurinXApp\\RegistrationWindow.xaml.cs",
+              "RelativeToolTip": "BurinXApp\\RegistrationWindow.xaml.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAgwFAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T20:19:42.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegistrationWindow.xaml",
+              "DocumentMoniker": "D:\\UNIK\\6_sem\\BurinXApp\\BurinXApp\\BurinXApp\\RegistrationWindow.xaml",
+              "RelativeDocumentMoniker": "BurinXApp\\RegistrationWindow.xaml",
+              "ToolTip": "D:\\UNIK\\6_sem\\BurinXApp\\BurinXApp\\BurinXApp\\RegistrationWindow.xaml",
+              "RelativeToolTip": "BurinXApp\\RegistrationWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-15T20:19:30.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AdminWindow.xaml",
+              "DocumentMoniker": "D:\\UNIK\\6_sem\\BurinXApp\\BurinXApp\\BurinXApp\\AdminWindow.xaml",
+              "RelativeDocumentMoniker": "BurinXApp\\AdminWindow.xaml",
+              "ToolTip": "D:\\UNIK\\6_sem\\BurinXApp\\BurinXApp\\BurinXApp\\AdminWindow.xaml",
+              "RelativeToolTip": "BurinXApp\\AdminWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-15T20:05:40.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminWindow.xaml.cs",
+              "DocumentMoniker": "D:\\UNIK\\6_sem\\BurinXApp\\BurinXApp\\BurinXApp\\AdminWindow.xaml.cs",
+              "RelativeDocumentMoniker": "BurinXApp\\AdminWindow.xaml.cs",
+              "ToolTip": "D:\\UNIK\\6_sem\\BurinXApp\\BurinXApp\\BurinXApp\\AdminWindow.xaml.cs",
+              "RelativeToolTip": "BurinXApp\\AdminWindow.xaml.cs",
+              "ViewState": "AQIAANYAAAAAAAAAAAAtwOgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T20:10:22.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClientWindow.xaml",
+              "DocumentMoniker": "D:\\UNIK\\6_sem\\BurinXApp\\BurinXApp\\BurinXApp\\ClientWindow.xaml",
+              "RelativeDocumentMoniker": "BurinXApp\\ClientWindow.xaml",
+              "ToolTip": "D:\\UNIK\\6_sem\\BurinXApp\\BurinXApp\\BurinXApp\\ClientWindow.xaml",
+              "RelativeToolTip": "BurinXApp\\ClientWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-15T20:05:50.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClientWindow.xaml.cs",
+              "DocumentMoniker": "D:\\UNIK\\6_sem\\BurinXApp\\BurinXApp\\BurinXApp\\ClientWindow.xaml.cs",
+              "RelativeDocumentMoniker": "BurinXApp\\ClientWindow.xaml.cs",
+              "ToolTip": "D:\\UNIK\\6_sem\\BurinXApp\\BurinXApp\\BurinXApp\\ClientWindow.xaml.cs",
+              "RelativeToolTip": "BurinXApp\\ClientWindow.xaml.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAgwFQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T20:33:58.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ComputerModel.cs",
+              "DocumentMoniker": "D:\\UNIK\\6_sem\\BurinXApp\\BurinXApp\\BurinXApp\\Model\\ComputerModel.cs",
+              "RelativeDocumentMoniker": "BurinXApp\\Model\\ComputerModel.cs",
+              "ToolTip": "D:\\UNIK\\6_sem\\BurinXApp\\BurinXApp\\BurinXApp\\Model\\ComputerModel.cs",
+              "RelativeToolTip": "BurinXApp\\Model\\ComputerModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T20:33:31.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\UNIK\\6_sem\\BurinXApp\\BurinXApp\\BurinXApp\\Singleton\\AuthService.cs",
+              "RelativeDocumentMoniker": "BurinXApp\\Singleton\\AuthService.cs",
+              "ToolTip": "D:\\UNIK\\6_sem\\BurinXApp\\BurinXApp\\BurinXApp\\Singleton\\AuthService.cs",
+              "RelativeToolTip": "BurinXApp\\Singleton\\AuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T20:03:36.286Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

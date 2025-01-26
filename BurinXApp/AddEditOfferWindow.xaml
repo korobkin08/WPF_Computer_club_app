@@ -1,0 +1,33 @@
+﻿<Window x:Class="BurinXApp.AddEditOfferWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Icon="/Sources/Icon.png"
+        Title="Add/Edit Special Offer" Height="550" Width="400" WindowStartupLocation="CenterScreen" Background="#000000">
+    <Grid Margin="20">
+        <!-- Название -->
+        <TextBlock Text="Name:" Margin="0,10,0,0" VerticalAlignment="Top" Foreground="#FF00FF" />
+        <TextBox x:Name="NameTextBox" Margin="0,30,0,0" VerticalAlignment="Top" Height="30" Background="#222222" Foreground="#FF00FF" BorderBrush="#FF00FF" />
+
+        <!-- Цена в будние дни -->
+        <TextBlock Text="Weekday Price:" Margin="0,80,0,0" VerticalAlignment="Top" Foreground="#FF00FF" />
+        <TextBox x:Name="WeekdayPriceTextBox" Margin="0,100,0,0" VerticalAlignment="Top" Height="30" Background="#222222" Foreground="#FF00FF" BorderBrush="#FF00FF" />
+
+        <!-- Цена в выходные дни -->
+        <TextBlock Text="Weekend Price:" Margin="0,150,0,0" VerticalAlignment="Top" Foreground="#FF00FF" />
+        <TextBox x:Name="WeekendPriceTextBox" Margin="0,170,0,0" VerticalAlignment="Top" Height="30" Background="#222222" Foreground="#FF00FF" BorderBrush="#FF00FF" />
+
+        <!-- Продолжительность -->
+        <TextBlock Text="Duration:" Margin="0,220,0,0" VerticalAlignment="Top" Foreground="#FF00FF" />
+        <TextBox x:Name="DurationTextBox" Margin="0,240,0,0" VerticalAlignment="Top" Height="30" Background="#222222" Foreground="#FF00FF" BorderBrush="#FF00FF" />
+
+        <!-- Описание -->
+        <TextBlock Text="Description:" Margin="0,290,0,0" VerticalAlignment="Top" Foreground="#FF00FF" />
+        <TextBox x:Name="DescriptionTextBox" Margin="0,320,0,0" VerticalAlignment="Top" Height="80" Background="#222222" Foreground="#FF00FF" BorderBrush="#FF00FF" TextWrapping="Wrap" AcceptsReturn="True" />
+
+        <!-- Кнопки -->
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="0,0,0,10">
+            <Button Content="Save" Width="80" Height="30" Margin="5" Background="#FF00FF" Foreground="#000000" BorderBrush="#FF00FF" Click="SaveButton_Click" />
+            <Button Content="Cancel" Width="80" Height="30" Margin="5" Background="#FF00FF" Foreground="#000000" BorderBrush="#FF00FF" Click="CancelButton_Click" />
+        </StackPanel>
+    </Grid>
+</Window>

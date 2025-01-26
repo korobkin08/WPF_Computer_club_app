@@ -1,0 +1,122 @@
+﻿<Window x:Class="BurinXApp.ClientWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Icon="/Sources/Icon.png"
+        Title="BurinX" Height="1080" Width="1920" Background="#1F1F1F" WindowStartupLocation="CenterScreen">
+    <Window.Resources>
+        <Style x:Key="FreeStatusStyle" TargetType="TextBlock">
+            <Setter Property="Background" Value="Green"/>
+        </Style>
+        <Style x:Key="OccupiedStatusStyle" TargetType="TextBlock">
+            <Setter Property="Background" Value="Red"/>
+        </Style>
+
+        <LinearGradientBrush x:Key="AccentBrush" StartPoint="0,0" EndPoint="1,1">
+            <GradientStop Color="#FF00FF" Offset="0"/>
+            <GradientStop Color="#00FFFF" Offset="1"/>
+        </LinearGradientBrush>
+
+        <Style x:Key="ProfileLinkStyle" TargetType="TextBlock">
+            <Setter Property="Foreground" Value="#83B8FF"/>
+            <Setter Property="FontSize" Value="18"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="Cursor" Value="Hand"/>
+            <Style.Triggers>
+                <Trigger Property="IsMouseOver" Value="True">
+                    <Setter Property="Foreground" Value="#248BD6"/>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+    </Window.Resources>
+
+    <Grid>
+        <Image Source="Sources/backAdmin.jpg" Stretch="UniformToFill" StretchDirection="UpOnly"/>
+        <!-- Заголовок -->
+        <TextBlock x:Name="WelcomeTextBlock" HorizontalAlignment="Center" VerticalAlignment="Top" 
+           FontSize="28" FontWeight="Bold" Foreground="#FFFFFF" Margin="0,20,0,0" />
+
+        <!-- Баланс -->
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,100,0,0">
+            <TextBlock Text="Баланс:" Foreground="#CCCCCC" FontSize="16" VerticalAlignment="Center"/>
+            <TextBlock x:Name="BalanceLabel" Text="{Binding Balance}" Foreground="#83B8FF" FontSize="16" Margin="5,0,0,0" VerticalAlignment="Center"/>
+        </StackPanel>
+
+        <!-- Поле для ввода суммы пополнения -->
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,150,0,0">
+            <TextBlock Text="Введите сумму пополнения:" Foreground="#CCCCCC" FontSize="16" VerticalAlignment="Center"/>
+            <TextBox x:Name="TopUpAmountTextBox" Width="100" Height="30" FontSize="16" Margin="5,0,0,0" VerticalAlignment="Center"/>
+        </StackPanel>
+
+        <!-- Кнопка пополнения счета -->
+        <Button Content="Пополнить ;)" HorizontalAlignment="Left" Width="100" Height="40" Background="{StaticResource AccentBrush}" Foreground="White" FontSize="16" Margin="10,200,0,0" 
+                VerticalAlignment="Top" Click="OnTopUpClick"/>
+
+        <!-- Статистика пользователя -->
+        <StackPanel Orientation="Vertical" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="10,100,0,0" Grid.Column="1">
+            <TextBlock Text="Статистика пользователя" FontSize="22" FontWeight="Bold" Foreground="#FFFFFF" Margin="0,0,0,20"/>
+            <TextBlock x:Name="TotalSessionsLabel" Foreground="#CCCCCC" FontSize="16"/>
+            <TextBlock x:Name="TotalHoursLabel" Foreground="#CCCCCC" FontSize="16"/>
+            <TextBlock x:Name="TotalPaymentsLabel" Foreground="#CCCCCC" FontSize="16"/>
+        </StackPanel>
+
+
+
+        <!-- Список компьютеров -->
+        <ListView x:Name="ComputersListView" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,96,0,0" 
+                  Background="#2C2C2C" Foreground="White" FontSize="16" Width="1200" Height="500">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="ПК" DisplayMemberBinding="{Binding Name}" Width="200"/>
+                    <GridViewColumn Header="Статус ПК" Width="200">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock Text="{Binding Status}" />
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    <GridViewColumn Header="Конец резервации" Width="430" >
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock Text="{Binding ReservationEndTime, StringFormat='dd/MM/yyyy HH:mm'}" />
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    <GridViewColumn Header="Забронировать" Width="340">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+                                    <Button Content="Забронировать компьютер" Width="300" Height="40" 
+                       Background="{StaticResource AccentBrush}" Foreground="White" FontSize="16" 
+                        Margin="10,0" Style="{StaticResource RoundedButtonStyle}" 
+                        Tag="{Binding}" Click="OnBookComputerClick"/>
+                                </StackPanel>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+
+                </GridView>
+            </ListView.View>
+        </ListView>
+
+        <!-- Кнопка завершения сессии -->
+        <Button x:Name="EndSessionButton" Content="Завершить сессию" Width="300" Height="45" Background="{StaticResource AccentBrush}" Foreground="White" FontSize="16" 
+                HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,616,0,0" Click="OnEndSessionClick"/>
+
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,668,0,0">
+            <TextBlock Text="История посещений" HorizontalAlignment="Center" FontSize="22" FontWeight="Bold" Foreground="#FFFFFF" Margin="0,0,0,20"/>
+            <ListView x:Name="SessionHistoryListView" Background="#2C2C2C" Foreground="White" FontSize="16" Width="1200" Height="300">
+                <ListView.View>
+                    <GridView>
+                        <GridViewColumn Header="Session ID" DisplayMemberBinding="{Binding SessionID}" Width="150"/>
+                        <GridViewColumn Header="Computer" DisplayMemberBinding="{Binding ComputerID}" Width="200"/>
+                        <GridViewColumn Header="Start Time" DisplayMemberBinding="{Binding StartTime, StringFormat='dd/MM/yyyy HH:mm'}" Width="250"/>
+                        <GridViewColumn Header="End Time" DisplayMemberBinding="{Binding EndTime, StringFormat='dd/MM/yyyy HH:mm'}" Width="250"/>
+                        <GridViewColumn Header="Cost" DisplayMemberBinding="{Binding Cost, StringFormat='{}{0:C}'}" Width="150"/>
+                    </GridView>
+                </ListView.View>
+            </ListView>
+        </StackPanel>
+
+    </Grid>
+
+</Window>

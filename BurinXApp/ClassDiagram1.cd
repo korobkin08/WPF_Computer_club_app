@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BurinXApp.Model.CharPointModel">
+    <Position X="5.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Model\CharPointModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BurinXApp.Model.ComputerModel">
+    <Position X="8.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAFAAAAAAAAIQAAAAQCIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\ComputerModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BurinXApp.Model.SessionModel">
+    <Position X="7" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAAAAAAAJAIAAAAQAAAAAABAAAAAAA=</HashCode>
+      <FileName>Model\SessionModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BurinXApp.Model.SpecialOfferModel">
+    <Position X="13" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAkAAAAASAAAAQAAAAAAAAAAAAAAAAAAhA=</HashCode>
+      <FileName>Model\SpecialOfferModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BurinXApp.Model.UserModel">
+    <Position X="1.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAESgAAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\UserModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BurinXApp.Model.UserRepository">
+    <Position X="11" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\UserRepository.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Object" Collapsed="true">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BurinXApp.Observer.TimeObserver">
+    <Position X="11" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Observer\TimeObserver.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="BurinXApp.Observer.TimeSubject">
+    <Position X="13" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAIAAAAAAgAAAAAAAAAAAAAAAAAIACAAAAAAAAgAAA=</HashCode>
+      <FileName>Observer\TimeSubject.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="AuthService">
+    <Position X="3.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAECAAAAAAEAAgAAAAAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Singleton\AuthService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="BurinXApp.IObserver">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Observer\IObserver.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="BurinXApp.Observer.ISubject">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAAAAAAAAAAAAAIAAAAAAAAAAgAAA=</HashCode>
+      <FileName>Observer\ISubject.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
