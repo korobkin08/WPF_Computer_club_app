@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\UNIK\\6_sem\\BurinXApp\\BurinXApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{660638EB-263F-4A46-8E47-F4660E5C1405}|BurinXApp\\BurinXApp.csproj|d:\\unik\\6_sem\\burinxapp\\burinxapp\\burinxapp\\testclass2.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{660638EB-263F-4A46-8E47-F4660E5C1405}|BurinXApp\\BurinXApp.csproj|solutionrelative:burinxapp\\testclass2.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{660638EB-263F-4A46-8E47-F4660E5C1405}|BurinXApp\\BurinXApp.csproj|d:\\unik\\6_sem\\burinxapp\\burinxapp\\burinxapp\\bookingwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{660638EB-263F-4A46-8E47-F4660E5C1405}|BurinXApp\\BurinXApp.csproj|solutionrelative:burinxapp\\bookingwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -106,7 +110,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 18,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -133,8 +137,25 @@
               "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
+              "Title": "TestClass2.txt",
+              "DocumentMoniker": "D:\\UNIK\\6_sem\\BurinXApp\\BurinXApp\\BurinXApp\\TestClass2.txt",
+              "RelativeDocumentMoniker": "BurinXApp\\TestClass2.txt",
+              "ToolTip": "D:\\UNIK\\6_sem\\BurinXApp\\BurinXApp\\BurinXApp\\TestClass2.txt",
+              "RelativeToolTip": "BurinXApp\\TestClass2.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-01-26T02:57:30.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "CustomMessageBox.xaml.cs",
               "DocumentMoniker": "D:\\UNIK\\6_sem\\BurinXApp\\BurinXApp\\BurinXApp\\CustomMessageBox.xaml.cs",
               "RelativeDocumentMoniker": "BurinXApp\\CustomMessageBox.xaml.cs",
@@ -146,7 +167,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "CustomMessageBox.xaml",
               "DocumentMoniker": "D:\\UNIK\\6_sem\\BurinXApp\\BurinXApp\\BurinXApp\\CustomMessageBox.xaml",
               "RelativeDocumentMoniker": "BurinXApp\\CustomMessageBox.xaml",
@@ -157,7 +178,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "TimeObserver.cs",
               "DocumentMoniker": "D:\\UNIK\\6_sem\\BurinXApp\\BurinXApp\\BurinXApp\\Observer\\TimeObserver.cs",
               "RelativeDocumentMoniker": "BurinXApp\\Observer\\TimeObserver.cs",
@@ -169,7 +190,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "TimeSubject.cs",
               "DocumentMoniker": "D:\\UNIK\\6_sem\\BurinXApp\\BurinXApp\\BurinXApp\\Observer\\TimeSubject.cs",
               "RelativeDocumentMoniker": "BurinXApp\\Observer\\TimeSubject.cs",
@@ -181,7 +202,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "ISubject.cs",
               "DocumentMoniker": "D:\\UNIK\\6_sem\\BurinXApp\\BurinXApp\\BurinXApp\\Observer\\ISubject.cs",
               "RelativeDocumentMoniker": "BurinXApp\\Observer\\ISubject.cs",
@@ -193,7 +214,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "IObserver.cs",
               "DocumentMoniker": "D:\\UNIK\\6_sem\\BurinXApp\\BurinXApp\\BurinXApp\\Observer\\IObserver.cs",
               "RelativeDocumentMoniker": "BurinXApp\\Observer\\IObserver.cs",
@@ -205,7 +226,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "UserModel.cs",
               "DocumentMoniker": "D:\\UNIK\\6_sem\\BurinXApp\\BurinXApp\\BurinXApp\\Model\\UserModel.cs",
               "RelativeDocumentMoniker": "BurinXApp\\Model\\UserModel.cs",
@@ -217,7 +238,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "EnterPage.xaml.cs",
               "DocumentMoniker": "D:\\UNIK\\6_sem\\BurinXApp\\BurinXApp\\BurinXApp\\EnterPage.xaml.cs",
               "RelativeDocumentMoniker": "BurinXApp\\EnterPage.xaml.cs",
@@ -229,7 +250,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "App.xaml",
               "DocumentMoniker": "D:\\UNIK\\6_sem\\BurinXApp\\BurinXApp\\BurinXApp\\App.xaml",
               "RelativeDocumentMoniker": "BurinXApp\\App.xaml",
@@ -240,7 +261,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "AddEditOfferWindow.xaml.cs",
               "DocumentMoniker": "D:\\UNIK\\6_sem\\BurinXApp\\BurinXApp\\BurinXApp\\AddEditOfferWindow.xaml.cs",
               "RelativeDocumentMoniker": "BurinXApp\\AddEditOfferWindow.xaml.cs",
@@ -252,7 +273,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "AddEditOfferWindow.xaml",
               "DocumentMoniker": "D:\\UNIK\\6_sem\\BurinXApp\\BurinXApp\\BurinXApp\\AddEditOfferWindow.xaml",
               "RelativeDocumentMoniker": "BurinXApp\\AddEditOfferWindow.xaml",
@@ -263,7 +284,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "BookingWindow.xaml",
               "DocumentMoniker": "D:\\UNIK\\6_sem\\BurinXApp\\BurinXApp\\BurinXApp\\BookingWindow.xaml",
               "RelativeDocumentMoniker": "BurinXApp\\BookingWindow.xaml",
@@ -274,7 +295,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "BookingWindow.xaml.cs",
               "DocumentMoniker": "D:\\UNIK\\6_sem\\BurinXApp\\BurinXApp\\BurinXApp\\BookingWindow.xaml.cs",
               "RelativeDocumentMoniker": "BurinXApp\\BookingWindow.xaml.cs",
@@ -287,7 +308,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "EnterPage.xaml",
               "DocumentMoniker": "D:\\UNIK\\6_sem\\BurinXApp\\BurinXApp\\BurinXApp\\EnterPage.xaml",
               "RelativeDocumentMoniker": "BurinXApp\\EnterPage.xaml",
@@ -298,7 +319,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "LoginWindow.xaml",
               "DocumentMoniker": "D:\\UNIK\\6_sem\\BurinXApp\\BurinXApp\\BurinXApp\\LoginWindow.xaml",
               "RelativeDocumentMoniker": "BurinXApp\\LoginWindow.xaml",
@@ -309,7 +330,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "LoginWindow.xaml.cs",
               "DocumentMoniker": "D:\\UNIK\\6_sem\\BurinXApp\\BurinXApp\\BurinXApp\\LoginWindow.xaml.cs",
               "RelativeDocumentMoniker": "BurinXApp\\LoginWindow.xaml.cs",
@@ -321,7 +342,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "RegistrationWindow.xaml.cs",
               "DocumentMoniker": "D:\\UNIK\\6_sem\\BurinXApp\\BurinXApp\\BurinXApp\\RegistrationWindow.xaml.cs",
               "RelativeDocumentMoniker": "BurinXApp\\RegistrationWindow.xaml.cs",
@@ -333,7 +354,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "RegistrationWindow.xaml",
               "DocumentMoniker": "D:\\UNIK\\6_sem\\BurinXApp\\BurinXApp\\BurinXApp\\RegistrationWindow.xaml",
               "RelativeDocumentMoniker": "BurinXApp\\RegistrationWindow.xaml",
@@ -344,7 +365,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "AdminWindow.xaml",
               "DocumentMoniker": "D:\\UNIK\\6_sem\\BurinXApp\\BurinXApp\\BurinXApp\\AdminWindow.xaml",
               "RelativeDocumentMoniker": "BurinXApp\\AdminWindow.xaml",
@@ -355,7 +376,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "AdminWindow.xaml.cs",
               "DocumentMoniker": "D:\\UNIK\\6_sem\\BurinXApp\\BurinXApp\\BurinXApp\\AdminWindow.xaml.cs",
               "RelativeDocumentMoniker": "BurinXApp\\AdminWindow.xaml.cs",
@@ -367,7 +388,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ClientWindow.xaml",
               "DocumentMoniker": "D:\\UNIK\\6_sem\\BurinXApp\\BurinXApp\\BurinXApp\\ClientWindow.xaml",
               "RelativeDocumentMoniker": "BurinXApp\\ClientWindow.xaml",
@@ -378,7 +399,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ClientWindow.xaml.cs",
               "DocumentMoniker": "D:\\UNIK\\6_sem\\BurinXApp\\BurinXApp\\BurinXApp\\ClientWindow.xaml.cs",
               "RelativeDocumentMoniker": "BurinXApp\\ClientWindow.xaml.cs",
@@ -390,7 +411,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "ComputerModel.cs",
               "DocumentMoniker": "D:\\UNIK\\6_sem\\BurinXApp\\BurinXApp\\BurinXApp\\Model\\ComputerModel.cs",
               "RelativeDocumentMoniker": "BurinXApp\\Model\\ComputerModel.cs",
@@ -402,7 +423,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "AuthService.cs",
               "DocumentMoniker": "D:\\UNIK\\6_sem\\BurinXApp\\BurinXApp\\BurinXApp\\Singleton\\AuthService.cs",
               "RelativeDocumentMoniker": "BurinXApp\\Singleton\\AuthService.cs",

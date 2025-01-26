@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BurinXApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d3b6fb07a25f1d4d704c1c35ff40b645d278a402")]
 [assembly: System.Reflection.AssemblyProductAttribute("BurinXApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BurinXApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
